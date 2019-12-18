@@ -5,10 +5,11 @@
 
 ## Dependency
 - python3
-- music21 from github (clone the repo and run `python3 setup.py install`)
+- music21 from github (clone the repo and run `sudo python3 setup.py install`)
 
 ## Usage
 - run `python3 negative_harmony.py`
+- enjoy
 
 ## Screenshot
 
