@@ -13,4 +13,4 @@
 
 ## Screenshot
 
-![Alt text](/image/negative_harmony.png?raw=true "Negative harmony example")
+![Alt text](/image/negative_harmony_example.png?raw=true "Negative harmony example")
