@@ -1,7 +1,7 @@
 # Negative harmony
 - this was inspired from 
 
-[![Negative harmony video](https://img.youtube.com/vi/0oI2iFrzA0o/0.jpg)](https://www.youtube.com/watch?v=0oI2iFrzA0o)
+[![Negative harmony video](https://img.youtube.com/vi/qHH8siNm3ts/0.jpg)](https://www.youtube.com/watch?v=qHH8siNm3ts)
 
 ## Dependency
 - python3
